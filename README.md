@@ -4,6 +4,8 @@ Retail Sales Analytics Dashboard – Power BI
 This document describes a Power BI Retail Sales Analytics Dashboard developed to analyze sales performance, revenue metrics, margin behavior, and customer insights across multiple business dimensions. The dashboard is designed for management and operational decision-making, focusing on visibility of all key KPIs.
 
 **1. Dashboard Overview (FY 24–25 – KPI Overview)**
+<img width="1227" height="742" alt="01 - KPI Overview" src="https://github.com/user-attachments/assets/49ff1b71-fba6-445c-a213-20d18aa1a85d" />
+
 - Provides a complete snapshot of retail performance.
 - Displays Volume KPIs and Revenue KPIs together for quick decision-making.
 - Month-wise slicer enables analysis across different periods.
