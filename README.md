@@ -27,7 +27,7 @@ Sales performance is uneven across stores and departments
 Revenue is concentrated in a few brands and categories, indicating dependency risk
 Customer purchase behavior shows variation in basket size and transaction value
 
-**⚠️ Business Impact Identified**
+**⚠️ Business Risks Identified**
 - High dependency on specific brands and categories increases risk  
 - Margin volatility affects profitability predictability  
 - Performance gaps across stores indicate operational inefficiencies  
@@ -75,3 +75,6 @@ Data Source: Excel
 Features: KPI dashboard, trend analysis, MoM comparison, DAX measures
 
 **Note: PBIX file not shared publicly to protect business logic**
+
+**🚀 Conclusion**
+This project demonstrates the ability to transform raw sales data into actionable business insights, helping stakeholders understand performance drivers, identify risks, and make informed decisions.
