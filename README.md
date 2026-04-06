@@ -1,7 +1,19 @@
 # Retail-Sales-Analytics-Dashboard
-Retail Sales &amp; Trend Analysis Dashboard built in Power BI
-Retail Sales Analytics Dashboard – Power BI
-This document describes a Power BI Retail Sales Analytics Dashboard developed to analyze sales performance, revenue metrics, margin behavior, and customer insights across multiple business dimensions. The dashboard is designed for management and operational decision-making, focusing on visibility of all key KPIs.
+
+**🧠 Business Problem**
+The business requires a centralized dashboard to monitor retail sales performance, profitability, and customer behavior to support data-driven decision-making.
+
+**🎯 Key Objectives**
+Track revenue, margin, and operational KPIs
+Analyze sales trends and performance fluctuations
+Evaluate store, department, and brand-level performance
+Identify growth opportunities and risk areas
+
+**🛠 Tools & Skills**
+Power BI Desktop
+DAX (Time Intelligence, KPIs)
+Data Modeling
+Dashboard Design & Storytelling
 
 **1. Dashboard Overview (FY 24–25 – KPI Overview)**
 <img width="1227" height="742" alt="01 - KPI Overview" src="https://github.com/user-attachments/assets/49ff1b71-fba6-445c-a213-20d18aa1a85d" />
@@ -61,15 +73,26 @@ Business Value:
 - Breaks down averages by Month, Store, and Department.
 - Useful for understanding normalized performance trends.
   
-**Technical Details**
-- Tool Used: Power BI Desktop
-- Data Source: Excel
-- Key Skills: DAX, Data Modeling, KPI Design, Trend Analysis
-- Time Intelligence: MoM calculations, Best/Worst Day logic
+**📈 Key Insights**
+Revenue and margins show strong daily and seasonal fluctuations
+Certain stores and departments consistently outperform others
+Brand contribution is uneven, indicating dependency risk
+Discounting significantly impacts margin performance
 
-Note: PBIX file is not shared publicly to protect business logic and calculations.
-Use Case
-- Retail Sales Monitoring
-- Management Reporting
-- Performance Review Meetings
-- Business Decision Support
+**⚠️ Business Impact**
+Margin volatility affects profitability predictability
+Dependency on specific brands and categories increases risk
+Performance gaps across stores indicate optimization opportunities
+
+**💡 Recommendations**
+Optimize discount strategies to protect margins
+Focus on improving underperforming stores and departments
+Diversify brand portfolio to reduce dependency
+Leverage peak sales periods for targeted campaigns
+
+**📁 Project Details**
+Tool: Power BI
+Data Source: Excel
+Features: KPI dashboard, trend analysis, MoM comparison, DAX measures
+
+**Note: PBIX file not shared publicly to protect business logic**
